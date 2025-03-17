@@ -4,6 +4,7 @@
 .python-version
 .idea/
 .direnv/
+foo
 
 # ignore roles pulled by ansible-galaxy
 /roles/galaxy/*
